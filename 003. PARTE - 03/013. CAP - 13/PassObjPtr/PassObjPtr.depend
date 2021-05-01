@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617383630 source:/home/soul/C++Leigos/003. PARTE - 03/013. CAP - 13/PassObjPtr/main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+

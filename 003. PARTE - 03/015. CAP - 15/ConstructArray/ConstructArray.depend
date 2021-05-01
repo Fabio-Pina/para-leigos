@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617471522 source:/home/soul/C++Leigos/003. PARTE - 03/015. CAP - 15/ConstructArray/main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617154545 source:/home/soul/C++Leigos/002. PARTE - 02/007. CAP - 07/displayString/main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+

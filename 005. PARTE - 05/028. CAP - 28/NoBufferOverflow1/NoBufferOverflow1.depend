@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618062628 source:/home/soul/C++Leigos/005. PARTE - 05/028. CAP - 28/NoBufferOverflow1/main.cpp
+	<cstdio>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<cstring>
+	<string>
+

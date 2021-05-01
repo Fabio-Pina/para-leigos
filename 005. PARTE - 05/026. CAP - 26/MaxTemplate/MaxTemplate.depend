@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617912055 source:/home/soul/C++Leigos/005. PARTE - 05/026. CAP - 26/MaxTemplate/main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+

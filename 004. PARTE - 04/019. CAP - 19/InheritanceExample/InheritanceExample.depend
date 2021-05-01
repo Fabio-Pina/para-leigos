@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617667954 source:/home/soul/C++Leigos/004. PARTE - 04/019. CAP - 19/InheritanceExample/main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+

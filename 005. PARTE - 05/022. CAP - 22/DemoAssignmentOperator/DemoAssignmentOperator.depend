@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617759270 source:/home/soul/C++Leigos/005. PARTE - 05/022. CAP - 22/DemoAssignmentOperator/main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617645884 source:/home/soul/C++Leigos/003. PARTE - 03/018. CAP - 18/LinkedListClass/main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+

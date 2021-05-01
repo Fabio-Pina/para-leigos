@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617578167 source:/home/soul/C++Leigos/003. PARTE - 03/017. CAP - 17/ShallowCopy/main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+

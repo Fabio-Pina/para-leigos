@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617036839 source:/home/soul/C++Leigos/001. PARTE-01/005.CAP-05/branchDemo/main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+

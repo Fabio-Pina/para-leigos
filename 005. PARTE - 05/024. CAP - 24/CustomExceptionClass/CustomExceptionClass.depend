@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1617887674 source:/home/soul/C++Leigos/005. PARTE - 05/024. CAP - 24/CustomExceptionClass/main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<sstream>
+

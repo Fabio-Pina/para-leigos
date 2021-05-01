@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617548561 source:/home/soul/C++Leigos/003. PARTE - 03/016. CAP - 16/ConstructingMembers/main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+

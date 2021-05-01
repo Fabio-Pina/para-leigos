@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617289610 source:/home/soul/C++Leigos/002. PARTE - 02/009. CAP - 09/printArgs/main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
